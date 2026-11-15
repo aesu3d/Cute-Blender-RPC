@@ -1,4 +1,4 @@
-# Blender RPC
+# Cute Blender RPC
 
 ![Blender](https://img.shields.io/badge/Blender-4.2%2B-orange?logo=blender&logoColor=white)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
