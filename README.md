@@ -7,7 +7,7 @@
 Cute & highly customizable Discord Rich Presence for Blender ♡
 Show off what you're working on with your own vibe!
 
-<!-- Discord status screenshot here -->
+<img width="2152" height="1148" alt="Animation-ezgif com-censor" src="https://github.com/user-attachments/assets/dbd6b468-b899-46eb-9cc8-92f0b669d798" />
 
 ## Features
 - **17 icons to pick from**: the original logo, pastel colors and cute stamp icons!
