@@ -1,7 +1,7 @@
-# Blender RPC ver 1.0.0, made with love by Aesu <3
+# Cute Blender RPC ver 1.0.0, made with love by Aesu <3
 
 bl_info = {
-    "name": "Blender RPC",
+    "name": "Cute Blender RPC",
     "author": "Aesu",
     "version": (1, 0, 0),
     "blender": (4, 2, 0),
