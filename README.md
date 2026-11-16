@@ -2,7 +2,7 @@
 
 ![Blender](https://img.shields.io/badge/Blender-4.2%2B-orange?logo=blender&logoColor=white)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
-![Downloads](https://img.shields.io/github/downloads/aesu3d/cute-blender-rpc/total)
+![Downloads](https://img.shields.io/github/downloads/aesu3d/Cute-Blender-RPC/total)
 
 Cute & highly customizable Discord Rich Presence for Blender ♡
 Show off what you're working on with your own vibe!
@@ -25,7 +25,7 @@ Show off what you're working on with your own vibe!
 - In Discord: Settings → Activity Privacy → **Share your detected activities** turned on.
 
 ## Installation
-1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/cute-discord-rpc/releases)
+1. Download the latest `.zip` from [Releases](https://github.com/aesu3d/Cute-Blender-RPC/releases)
 2. In Blender: Edit → Preferences → Get Extensions → ⌄ → Install from Disk
 3. Enable **Blender RPC**, then wait a few seconds for your status to appear ✨
 
