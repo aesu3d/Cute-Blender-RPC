@@ -36,7 +36,7 @@ Show off what you're working on with your own vibe!
 4. Your Discord status updates every 15 seconds
 
 ## Support
-Found a bug or have an idea? Open an [Issue](https://github.com/aesu3d/REPO-NAME/issues)!
+Found a bug or have an idea? Open an [Issue](https://github.com/aesu3d/Cute-Blender-RPC/issues)!
 
 🛍️ More of my work: [aesu3d.com](https://aesu3d.com)
 
